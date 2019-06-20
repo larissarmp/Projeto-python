@@ -1,0 +1,18 @@
+Character	Meaning
+'r'	open for reading (default)
+'w'	open for writing, truncating the file first
+'x'	open for exclusive creation, failing if the file already exists
+'a'	open for writing, appending to the end of the file if it exists
+'b'	binary mode
+'t'	text mode (default)
+'+'	open a disk file for updating (reading and writing)
+'U'	universal newlines mode (deprecated)
+
+'r'	aberto para leitura (padrão)
+'w'	aberto para gravação, truncando o arquivo primeiro
+'x'	aberto para criação exclusiva, falhando se o arquivo já existir
+'a'	aberto para gravação, anexando ao final do arquivo, se existir
+'b'	modo binário
+'t'	modo de texto (padrão)
+'+'	abrir um arquivo de disco para atualização (leitura e escrita)
+'U'	modo de novas linhas universal (descontinuado)novas fun�oesn/ novas fun�oes
